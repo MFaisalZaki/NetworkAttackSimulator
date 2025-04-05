@@ -45,7 +45,7 @@ setup(
         if package.startswith('nasim')
     ],
     install_requires=[
-        'gymnasium==0.26.3',
+        'gymnasium>=0.26.3',
         'numpy==1.26.0',
         'networkx>=3.3',
         'matplotlib>=3.9.2',
