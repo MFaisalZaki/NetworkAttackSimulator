@@ -53,7 +53,7 @@ setup(
         'prettytable>=3.11.0'
     ],
     extras_require=extras,
-    python_requires='>=3.12.4',
+    python_requires='>=3.12.0',
     package_data={
         'nasim': ['scenarios/benchmark/*.yaml']
     },
